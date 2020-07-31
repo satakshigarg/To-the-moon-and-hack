@@ -1,0 +1,2736 @@
+{
+    "lens_id": "",
+    "document_id": "Qt1i77UvSMODsjw3DkmY",
+    "original_document_id": "Hm59GnRiLruCKdggPy86",
+    "version": "24",
+    "lastChanged": "1596204954367",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "true",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "ParticleMaterials"
+                    ],
+                    [
+                        "ParticleMaterials",
+                        "World"
+                    ],
+                    [
+                        "ParticleMaterials",
+                        "World",
+                        "Bokeh"
+                    ],
+                    [
+                        "ParticleMaterials",
+                        "World",
+                        "Bokeh",
+                        "Bokeh [EDIT_ME]"
+                    ],
+                    [
+                        "ParticleResources"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Meshes"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Meshes",
+                        "emitter_1000"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures",
+                        "cr_linear_blend"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures",
+                        "fx_bokeh"
+                    ],
+                    [
+                        "Saturn_diff"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Scripts",
+                        "BokehController"
+                    ],
+                    [
+                        "Tween",
+                        "Tween"
+                    ],
+                    [
+                        "Tween",
+                        "TweenManager"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "Legacy"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "Legacy",
+                        "TweenBillboard [DEPRECATED]"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenAlpha"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenChain"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenColor"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenScreenTransform"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenTransform"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenValue"
+                    ],
+                    [
+                        "mat",
+                        "Space"
+                    ],
+                    [
+                        "mat",
+                        "Sun"
+                    ],
+                    [
+                        "mat",
+                        "earth"
+                    ],
+                    [
+                        "mat",
+                        "jupiter"
+                    ],
+                    [
+                        "mat",
+                        "mars"
+                    ],
+                    [
+                        "mat",
+                        "moon"
+                    ],
+                    [
+                        "mat",
+                        "neptune"
+                    ],
+                    [
+                        "mat",
+                        "uranus"
+                    ],
+                    [
+                        "rotate"
+                    ],
+                    [
+                        "sphere"
+                    ],
+                    [
+                        "textures"
+                    ],
+                    [
+                        "textures",
+                        "2k_earth_daymap"
+                    ],
+                    [
+                        "textures",
+                        "2k_jupiter"
+                    ],
+                    [
+                        "textures",
+                        "2k_mars"
+                    ],
+                    [
+                        "textures",
+                        "2k_mercury"
+                    ],
+                    [
+                        "textures",
+                        "2k_moon"
+                    ],
+                    [
+                        "textures",
+                        "2k_neptune"
+                    ],
+                    [
+                        "textures",
+                        "2k_saturn"
+                    ],
+                    [
+                        "textures",
+                        "2k_saturn_ring_alpha"
+                    ],
+                    [
+                        "textures",
+                        "2k_stars"
+                    ],
+                    [
+                        "textures",
+                        "2k_stars_milky_way"
+                    ],
+                    [
+                        "textures",
+                        "2k_sun"
+                    ],
+                    [
+                        "textures",
+                        "2k_uranus"
+                    ],
+                    [
+                        "textures",
+                        "2k_venus_surface"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                ""
+            ],
+            "lens": "Untitled",
+            "applicability": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "1"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1596164984754421:7900",
+                    "name": "Files\/File8.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1596164985029180:7937",
+                    "name": "Files\/File10.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1596164985403633:8027",
+                    "name": "Files\/File12.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1596164985795260:8133",
+                    "name": "Files\/File14.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1596164986102722:8232",
+                    "name": "Files\/File16.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1596164986373721:8265",
+                    "name": "Files\/File18.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1596164986660881:8380",
+                    "name": "Files\/File20.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1596164986822471:8405",
+                    "name": "Files\/File22.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1596165060039219:17406",
+                    "name": "Files\/File24.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1596165060302849:17443",
+                    "name": "Files\/File26.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1596165060637025:17569",
+                    "name": "Files\/File28.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1596165060918298:17701",
+                    "name": "Files\/File30.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1596165061141365:17726",
+                    "name": "Files\/File32.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1596165106646091:23438",
+                    "name": "Files\/File34.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1596166170362103:151758",
+                    "name": "Files\/File36",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1596168068368633:347339",
+                    "name": "Files\/File42",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1596168465266762:396843",
+                    "name": "Files\/File44.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1596168465375312:396855",
+                    "name": "Files\/File45.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1596168465478632:396875",
+                    "name": "Files\/File46.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1596168465761969:396911",
+                    "name": "Files\/File49.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1596168465891922:396925",
+                    "name": "Files\/File50.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1596168466009106:396939",
+                    "name": "Files\/File51.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1596168466127015:396959",
+                    "name": "Files\/File52.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1596168466261113:396975",
+                    "name": "Files\/File53.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1596168466422315:397019",
+                    "name": "Files\/File55.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "46",
+                    "uid": "1596171021193341:725247",
+                    "name": "Files\/File66",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "47",
+                    "uid": "1596174207151123:1130532",
+                    "name": "Files\/File68",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1596178469049102:1519916",
+                    "name": "Files\/File70.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "51",
+                    "uid": "1596179055851310:1598671",
+                    "name": "Files\/File74",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "53",
+                    "uid": "1596183588000906:2166595",
+                    "name": "Files\/File78",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "54",
+                    "uid": "1596183591444612:2167693",
+                    "name": "Files\/File80",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "55",
+                    "uid": "1596183628420266:2174337",
+                    "name": "Files\/File82",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "58",
+                    "uid": "1596190304781155:2841656",
+                    "name": "Files\/File88.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "59",
+                    "uid": "1596192494777280:3132495",
+                    "name": "Files\/File90.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "60",
+                    "uid": "1596192494946411:3132507",
+                    "name": "Files\/File92.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "61",
+                    "uid": "1596192495083535:3132527",
+                    "name": "Files\/File94.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "62",
+                    "uid": "1596192495220086:3132543",
+                    "name": "Files\/File96.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "63",
+                    "uid": "1596192495303138:3132555",
+                    "name": "Files\/File97",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1596166921173724:243693",
+                "4": "1596168030627807:342361",
+                "5": "1596168467544938:397148",
+                "6": "1596168608674512:420966",
+                "7": "1596170527905434:663108",
+                "8": "1596170555046626:667474",
+                "9": "1596174185998913:1127409",
+                "10": "1596174484947631:1165273",
+                "11": "1596178560825525:1533403",
+                "12": "1596178978295381:1587226",
+                "13": "1596179024821625:1593584",
+                "14": "1596182335873697:2008478",
+                "15": "1596182359550701:2011392",
+                "16": "1596184765287144:2323411",
+                "17": "1596184783884631:2326499",
+                "18": "1596190394765663:2855930",
+                "19": "1596192495457657:3132574",
+                "20": "1596192495458149:3132576"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.jpg"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.jpg"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.jpg"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.jpg"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.jpg"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.jpg"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.jpg"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.jpg"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.jpg"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.jpg"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.jpg"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.jpg"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.jpg"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.jpg"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.png"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.png"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.jpg"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.jpg"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.jpg"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.jpg"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.jpg"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.jpg"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.jpg"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.jpg"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.jpg"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.jpg"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.mesh"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.mesh"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.lsmat"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.lsmat"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.js"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45.js"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.js"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49.js"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.js"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51.js"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.js"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.js"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55.js"
+                },
+                {
+                    "k": "66",
+                    "v": "Files\/File66"
+                },
+                {
+                    "k": "67",
+                    "v": "Files\/File67.lsmat"
+                },
+                {
+                    "k": "68",
+                    "v": "Files\/File68"
+                },
+                {
+                    "k": "69",
+                    "v": "Files\/File69.lsmat"
+                },
+                {
+                    "k": "70",
+                    "v": "Files\/File70.js"
+                },
+                {
+                    "k": "74",
+                    "v": "Files\/File74"
+                },
+                {
+                    "k": "75",
+                    "v": "Files\/File75.lsmat"
+                },
+                {
+                    "k": "78",
+                    "v": "Files\/File78"
+                },
+                {
+                    "k": "79",
+                    "v": "Files\/File79.lsmat"
+                },
+                {
+                    "k": "80",
+                    "v": "Files\/File80"
+                },
+                {
+                    "k": "81",
+                    "v": "Files\/File81.lsmat"
+                },
+                {
+                    "k": "82",
+                    "v": "Files\/File82"
+                },
+                {
+                    "k": "83",
+                    "v": "Files\/File83.lsmat"
+                },
+                {
+                    "k": "88",
+                    "v": "Files\/File88.jpg"
+                },
+                {
+                    "k": "89",
+                    "v": "Files\/File89.jpg"
+                },
+                {
+                    "k": "90",
+                    "v": "Files\/File90.mesh"
+                },
+                {
+                    "k": "91",
+                    "v": "Files\/File91.mesh"
+                },
+                {
+                    "k": "92",
+                    "v": "Files\/File92.png"
+                },
+                {
+                    "k": "93",
+                    "v": "Files\/File93.png"
+                },
+                {
+                    "k": "94",
+                    "v": "Files\/File94.png"
+                },
+                {
+                    "k": "95",
+                    "v": "Files\/File95.png"
+                },
+                {
+                    "k": "96",
+                    "v": "Files\/File96.js"
+                },
+                {
+                    "k": "97",
+                    "v": "Files\/File97"
+                },
+                {
+                    "k": "98",
+                    "v": "Files\/File98.lsmat"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "968",
+                        "v": "textures\/2k_earth_daymap.jpg"
+                    },
+                    {
+                        "k": "969",
+                        "v": "textures\/2k_jupiter.jpg"
+                    },
+                    {
+                        "k": "970",
+                        "v": "textures\/2k_mars.jpg"
+                    },
+                    {
+                        "k": "971",
+                        "v": "textures\/2k_mercury.jpg"
+                    },
+                    {
+                        "k": "972",
+                        "v": "textures\/2k_moon.jpg"
+                    },
+                    {
+                        "k": "973",
+                        "v": "textures\/2k_neptune.jpg"
+                    },
+                    {
+                        "k": "974",
+                        "v": "textures\/2k_saturn.jpg"
+                    },
+                    {
+                        "k": "975",
+                        "v": "textures\/2k_saturn_ring_alpha.png"
+                    },
+                    {
+                        "k": "976",
+                        "v": "textures\/2k_stars.jpg"
+                    },
+                    {
+                        "k": "977",
+                        "v": "textures\/2k_stars_milky_way.jpg"
+                    },
+                    {
+                        "k": "978",
+                        "v": "textures\/2k_sun.jpg"
+                    },
+                    {
+                        "k": "979",
+                        "v": "textures\/2k_uranus.jpg"
+                    },
+                    {
+                        "k": "980",
+                        "v": "textures\/2k_venus_surface.jpg"
+                    },
+                    {
+                        "k": "981",
+                        "v": "sphere.mesh"
+                    },
+                    {
+                        "k": "985",
+                        "v": "mat\/Space.lsmat"
+                    },
+                    {
+                        "k": "986",
+                        "v": "mat"
+                    },
+                    {
+                        "k": "989",
+                        "v": "textures"
+                    },
+                    {
+                        "k": "990",
+                        "v": "mat\/Sun.lsmat"
+                    },
+                    {
+                        "k": "991",
+                        "v": "Tween"
+                    },
+                    {
+                        "k": "992",
+                        "v": "Tween\/Tween.js"
+                    },
+                    {
+                        "k": "993",
+                        "v": "Tween\/TweenTypes"
+                    },
+                    {
+                        "k": "994",
+                        "v": "Tween\/TweenTypes\/TweenTransform.js"
+                    },
+                    {
+                        "k": "995",
+                        "v": "Tween\/TweenManager.js"
+                    },
+                    {
+                        "k": "999",
+                        "v": "Tween\/TweenTypes\/TweenColor.js"
+                    },
+                    {
+                        "k": "1000",
+                        "v": "Tween\/TweenTypes\/TweenAlpha.js"
+                    },
+                    {
+                        "k": "1001",
+                        "v": "Tween\/TweenTypes\/Legacy"
+                    },
+                    {
+                        "k": "1002",
+                        "v": "Tween\/TweenTypes\/Legacy\/TweenBillboard [DEPRECATED].js"
+                    },
+                    {
+                        "k": "1003",
+                        "v": "Tween\/TweenTypes\/TweenValue.js"
+                    },
+                    {
+                        "k": "1004",
+                        "v": "Tween\/TweenTypes\/TweenChain.js"
+                    },
+                    {
+                        "k": "1006",
+                        "v": "Tween\/TweenTypes\/TweenScreenTransform.js"
+                    },
+                    {
+                        "k": "1015",
+                        "v": "mat\/earth.lsmat"
+                    },
+                    {
+                        "k": "1016",
+                        "v": "mat\/moon.lsmat"
+                    },
+                    {
+                        "k": "1018",
+                        "v": "rotate.js"
+                    },
+                    {
+                        "k": "1021",
+                        "v": "mat\/jupiter.lsmat"
+                    },
+                    {
+                        "k": "1023",
+                        "v": "mat\/uranus.lsmat"
+                    },
+                    {
+                        "k": "1024",
+                        "v": "mat\/neptune.lsmat"
+                    },
+                    {
+                        "k": "1025",
+                        "v": "mat\/mars.lsmat"
+                    },
+                    {
+                        "k": "1026",
+                        "v": "Saturn_diff.jpg"
+                    },
+                    {
+                        "k": "1030",
+                        "v": "ParticleResources"
+                    },
+                    {
+                        "k": "1031",
+                        "v": "ParticleResources\/Meshes"
+                    },
+                    {
+                        "k": "1032",
+                        "v": "ParticleResources\/Meshes\/emitter_1000.mesh"
+                    },
+                    {
+                        "k": "1033",
+                        "v": "ParticleResources\/Textures"
+                    },
+                    {
+                        "k": "1034",
+                        "v": "ParticleResources\/Textures\/cr_linear_blend.png"
+                    },
+                    {
+                        "k": "1035",
+                        "v": "ParticleResources\/Textures\/fx_bokeh.png"
+                    },
+                    {
+                        "k": "1036",
+                        "v": "Scripts"
+                    },
+                    {
+                        "k": "1037",
+                        "v": "Scripts\/BokehController.js"
+                    },
+                    {
+                        "k": "1038",
+                        "v": "ParticleMaterials"
+                    },
+                    {
+                        "k": "1039",
+                        "v": "ParticleMaterials\/World"
+                    },
+                    {
+                        "k": "1040",
+                        "v": "ParticleMaterials\/World\/Bokeh"
+                    },
+                    {
+                        "k": "1041",
+                        "v": "ParticleMaterials\/World\/Bokeh\/Bokeh [EDIT_ME].lsmat"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "968",
+                        "v": "eec7a2f8c47c27b5c5904b484b717986"
+                    },
+                    {
+                        "k": "969",
+                        "v": "bac68e493761c440a887576dd39409c3"
+                    },
+                    {
+                        "k": "970",
+                        "v": "b30dc37a707e6b4fc18da6de15997b95"
+                    },
+                    {
+                        "k": "971",
+                        "v": "6e2825332ce2838939ae17f230412466"
+                    },
+                    {
+                        "k": "972",
+                        "v": "833cdd47d60b5ada5141b5558f1b0f0f"
+                    },
+                    {
+                        "k": "973",
+                        "v": "17c1bff0c64a6a511e7ae707b660bf0f"
+                    },
+                    {
+                        "k": "974",
+                        "v": "e758b798d7d9622429374b804940e77f"
+                    },
+                    {
+                        "k": "975",
+                        "v": "deeecd9f9f03ecbff7e0ba4f0b91201a"
+                    },
+                    {
+                        "k": "976",
+                        "v": "aa84ebe0af724ac3a335285c2808971a"
+                    },
+                    {
+                        "k": "977",
+                        "v": "b5fc8274be63224b12252fd27a5bbb5f"
+                    },
+                    {
+                        "k": "978",
+                        "v": "7ce3a845bb3ca672ddd6660fd477de1f"
+                    },
+                    {
+                        "k": "979",
+                        "v": "0465fbad731bbca3d6c88d36ee524a1c"
+                    },
+                    {
+                        "k": "980",
+                        "v": "f3fc899218b29c879af0976bbd78bd25"
+                    },
+                    {
+                        "k": "981",
+                        "v": "0484abd87ee78b2745eb9563b19fd6a2"
+                    },
+                    {
+                        "k": "983",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "984",
+                        "v": "8a0173d0b987e1abfebd4ef9e3304c0b"
+                    },
+                    {
+                        "k": "985",
+                        "v": "cbf34e3b689e891dcb571bb138ff287c"
+                    },
+                    {
+                        "k": "990",
+                        "v": "b56a6c55c4ba8d0e1ef263fad96bb13a"
+                    },
+                    {
+                        "k": "992",
+                        "v": "db1633dd326bc8f976dd02c2fdb5bbf4"
+                    },
+                    {
+                        "k": "994",
+                        "v": "8bf0bd9ac22b88367eeffb4c8379aa63"
+                    },
+                    {
+                        "k": "995",
+                        "v": "e47dc7df413a7882965b13c64e8e2305"
+                    },
+                    {
+                        "k": "998",
+                        "v": "0f22bac28f4bb7f9303722acb5d035e0"
+                    },
+                    {
+                        "k": "999",
+                        "v": "ab2643b55fe14d19d10b8b7008e69d2d"
+                    },
+                    {
+                        "k": "1000",
+                        "v": "c21a94efbc1490ad9c24fbd7a19582e4"
+                    },
+                    {
+                        "k": "1002",
+                        "v": "293dd847263b992bd8c3db6df23ed47f"
+                    },
+                    {
+                        "k": "1003",
+                        "v": "89c36f43c41a7a483edf1c542afc642f"
+                    },
+                    {
+                        "k": "1004",
+                        "v": "99d0ca3e78fe988596048c74b3214923"
+                    },
+                    {
+                        "k": "1005",
+                        "v": "652d069524e3e081774ab247a27236be"
+                    },
+                    {
+                        "k": "1006",
+                        "v": "2b02d39d06be40b5e1988af378b0e640"
+                    },
+                    {
+                        "k": "1008",
+                        "v": "6e9aada9eccdf9e45f77f751724cc53d"
+                    },
+                    {
+                        "k": "1009",
+                        "v": "1da8b6c221cf798a20d985bf6235a3c2"
+                    },
+                    {
+                        "k": "1010",
+                        "v": "ef6321bcf6a8ae880cb6510aa609ed03"
+                    },
+                    {
+                        "k": "1013",
+                        "v": "54b5e21104a4a7f86b3d510596fdc27e"
+                    },
+                    {
+                        "k": "1014",
+                        "v": "5f71226500bc1a0ef9a233121bb92e71"
+                    },
+                    {
+                        "k": "1015",
+                        "v": "64de10d68df0bbf4ecb66ab39319253c"
+                    },
+                    {
+                        "k": "1016",
+                        "v": "25549c236fbceaca7ea3666ad29f39cd"
+                    },
+                    {
+                        "k": "1018",
+                        "v": "8f933d40e5daae8a07ef49766a3ce8f7"
+                    },
+                    {
+                        "k": "1019",
+                        "v": "59361291686fd7cebf3981836238abbb"
+                    },
+                    {
+                        "k": "1020",
+                        "v": "42782ec32be77b4ebcc7b15351a2ed6b"
+                    },
+                    {
+                        "k": "1021",
+                        "v": "059c6cd73a7228c9c57f8fcec64b7bbd"
+                    },
+                    {
+                        "k": "1022",
+                        "v": "404d511c2383bb3e647357c4853f7045"
+                    },
+                    {
+                        "k": "1023",
+                        "v": "c4062552355817f726ea021b6519b263"
+                    },
+                    {
+                        "k": "1024",
+                        "v": "80b6cf858181c6da1f35c92b52a2c104"
+                    },
+                    {
+                        "k": "1025",
+                        "v": "1c4fb8671e0d94fbe56da9cd9a44c591"
+                    },
+                    {
+                        "k": "1026",
+                        "v": "5778abff857bd1c2d0dba8ee7621f185"
+                    },
+                    {
+                        "k": "1027",
+                        "v": "66e8d06a43a69758acdc2071081d958c"
+                    },
+                    {
+                        "k": "1029",
+                        "v": "9b0304842731335f3c1d64b22547cd52"
+                    },
+                    {
+                        "k": "1032",
+                        "v": "adc36fff2957674601d705ed729586cf"
+                    },
+                    {
+                        "k": "1034",
+                        "v": "a4351832b6036772e2116d55c7e15da6"
+                    },
+                    {
+                        "k": "1035",
+                        "v": "95cca12fcc1f536fae36935f305eb426"
+                    },
+                    {
+                        "k": "1037",
+                        "v": "0d168642a156c7fe80781ecc708ca931"
+                    },
+                    {
+                        "k": "1041",
+                        "v": "bc98d6bd3344d9e1a7a361ce205113e8"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-07-31T16:18:15",
+                        "name": "Public",
+                        "hash": "8025adc636886b64918a44b5e2ac9cd0",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-07-10T09:03:00",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-07-10T09:03:00",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-07-31T16:11:37",
+                                "name": "mat",
+                                "hash": "0af2dd4aa743933272766f76c4f39f2d",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T10:20:37",
+                                        "name": "earth.lsmat",
+                                        "hash": "64de10d68df0bbf4ecb66ab39319253c",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T09:20:12",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T12:34:34",
+                                        "name": "jupiter.lsmat",
+                                        "hash": "059c6cd73a7228c9c57f8fcec64b7bbd",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T13:52:20",
+                                        "name": "mars.lsmat",
+                                        "hash": "1c4fb8671e0d94fbe56da9cd9a44c591",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T11:14:08",
+                                        "name": "moon.lsmat",
+                                        "hash": "25549c236fbceaca7ea3666ad29f39cd",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T13:52:12",
+                                        "name": "neptune.lsmat",
+                                        "hash": "80b6cf858181c6da1f35c92b52a2c104",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T09:20:39",
+                                        "name": "Space.lsmat",
+                                        "hash": "cbf34e3b689e891dcb571bb138ff287c",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T09:34:41",
+                                        "name": "Sun.lsmat",
+                                        "hash": "b56a6c55c4ba8d0e1ef263fad96bb13a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T13:51:15",
+                                        "name": "uranus.lsmat",
+                                        "hash": "c4062552355817f726ea021b6519b263",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-07-31T16:18:15",
+                                "name": "ParticleMaterials",
+                                "hash": "52f0a2a4f3def4b2abc161707120aa9a",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T16:18:15",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-07-31T16:18:15",
+                                        "name": "World",
+                                        "hash": "44321e3efda2025c5ba8c79e3bdce52d",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2020-07-31T16:18:16",
+                                                "name": "Bokeh",
+                                                "hash": "003e246d33a546e616729a9a341a030e",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-07-31T16:18:16",
+                                                        "name": "Bokeh [EDIT_ME].lsmat",
+                                                        "hash": "bc98d6bd3344d9e1a7a361ce205113e8",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-07-31T16:18:15",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-07-31T16:18:15",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-07-31T16:18:15",
+                                "name": "ParticleResources",
+                                "hash": "c5ceb41372571f67991d55496284188e",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T16:18:14",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-07-31T16:18:14",
+                                        "name": "Meshes",
+                                        "hash": "d7a591cced5cae3eff4182207df71439",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-07-31T16:18:14",
+                                                "name": "emitter_1000.mesh",
+                                                "hash": "adc36fff2957674601d705ed729586cf",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-07-31T16:18:14",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-07-31T16:18:15",
+                                        "name": "Textures",
+                                        "hash": "2a6ceb8d064b2adcf0b957a3d730b43e",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-07-31T16:18:14",
+                                                "name": "cr_linear_blend.png",
+                                                "hash": "a4351832b6036772e2116d55c7e15da6",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-07-31T16:18:15",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-07-31T16:18:14",
+                                                "name": "fx_bokeh.png",
+                                                "hash": "95cca12fcc1f536fae36935f305eb426",
+                                                "children": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-07-31T12:26:18",
+                                "name": "rotate.js",
+                                "hash": "8f933d40e5daae8a07ef49766a3ce8f7",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2012-03-10T21:08:34",
+                                "name": "Saturn_diff.jpg",
+                                "hash": "5778abff857bd1c2d0dba8ee7621f185",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-07-31T16:18:15",
+                                "name": "Scripts",
+                                "hash": "650a2b6297a0334d04756f4c25b07509",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T16:18:14",
+                                        "name": "BokehController.js",
+                                        "hash": "0d168642a156c7fe80781ecc708ca931",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T16:18:15",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-07-31T08:41:46",
+                                "name": "sphere.mesh",
+                                "hash": "0484abd87ee78b2745eb9563b19fd6a2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-07-31T16:11:37",
+                                "name": "textures",
+                                "hash": "d35d04950e1d1685d3dbf4e98154fe77",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T08:19:02",
+                                        "name": "2k_earth_daymap.jpg",
+                                        "hash": "eec7a2f8c47c27b5c5904b484b717986",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T08:18:47",
+                                        "name": "2k_jupiter.jpg",
+                                        "hash": "bac68e493761c440a887576dd39409c3",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T08:18:55",
+                                        "name": "2k_mars.jpg",
+                                        "hash": "b30dc37a707e6b4fc18da6de15997b95",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T08:17:23",
+                                        "name": "2k_mercury.jpg",
+                                        "hash": "6e2825332ce2838939ae17f230412466",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T08:17:44",
+                                        "name": "2k_moon.jpg",
+                                        "hash": "833cdd47d60b5ada5141b5558f1b0f0f",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T08:20:15",
+                                        "name": "2k_neptune.jpg",
+                                        "hash": "17c1bff0c64a6a511e7ae707b660bf0f",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T08:18:40",
+                                        "name": "2k_saturn.jpg",
+                                        "hash": "e758b798d7d9622429374b804940e77f",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T08:18:31",
+                                        "name": "2k_saturn_ring_alpha.png",
+                                        "hash": "deeecd9f9f03ecbff7e0ba4f0b91201a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T08:18:05",
+                                        "name": "2k_stars.jpg",
+                                        "hash": "aa84ebe0af724ac3a335285c2808971a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T08:17:55",
+                                        "name": "2k_stars_milky_way.jpg",
+                                        "hash": "b5fc8274be63224b12252fd27a5bbb5f",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T08:17:50",
+                                        "name": "2k_sun.jpg",
+                                        "hash": "7ce3a845bb3ca672ddd6660fd477de1f",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T08:18:13",
+                                        "name": "2k_uranus.jpg",
+                                        "hash": "0465fbad731bbca3d6c88d36ee524a1c",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T08:17:32",
+                                        "name": "2k_venus_surface.jpg",
+                                        "hash": "f3fc899218b29c879af0976bbd78bd25",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T09:28:51",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-07-31T16:11:37",
+                                "name": "Tween",
+                                "hash": "25ea687522e8939a33a84504f85a94cb",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T09:37:45",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T09:37:44",
+                                        "name": "Tween.js",
+                                        "hash": "db1633dd326bc8f976dd02c2fdb5bbf4",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-31T09:37:44",
+                                        "name": "TweenManager.js",
+                                        "hash": "e47dc7df413a7882965b13c64e8e2305",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-07-31T16:11:37",
+                                        "name": "TweenTypes",
+                                        "hash": "5af3494c14c9b943ba6ae86bfdbe8caa",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-07-31T09:37:45",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2020-07-31T16:11:37",
+                                                "name": "Legacy",
+                                                "hash": "5699726607f054d308421cd35b90b194",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-07-31T09:37:46",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2020-07-31T09:37:44",
+                                                        "name": "TweenBillboard [DEPRECATED].js",
+                                                        "hash": "293dd847263b992bd8c3db6df23ed47f",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-07-31T09:37:44",
+                                                "name": "TweenAlpha.js",
+                                                "hash": "c21a94efbc1490ad9c24fbd7a19582e4",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-07-31T09:37:44",
+                                                "name": "TweenChain.js",
+                                                "hash": "99d0ca3e78fe988596048c74b3214923",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-07-31T09:37:44",
+                                                "name": "TweenColor.js",
+                                                "hash": "ab2643b55fe14d19d10b8b7008e69d2d",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-07-31T09:37:44",
+                                                "name": "TweenScreenTransform.js",
+                                                "hash": "2b02d39d06be40b5e1988af378b0e640",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-07-31T09:37:44",
+                                                "name": "TweenTransform.js",
+                                                "hash": "8bf0bd9ac22b88367eeffb4c8379aa63",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2020-07-31T09:37:44",
+                                                "name": "TweenValue.js",
+                                                "hash": "89c36f43c41a7a483edf1c542afc642f",
+                                                "children": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "sphere",
+                        "type": "3",
+                        "subtype": "0",
+                        "resourceId": "25",
+                        "dependency": "0",
+                        "uid": "1596165106646091:23438",
+                        "fileId": "34",
+                        "originalId": "35",
+                        "publicId": "981",
+                        "source": "C:\/Users\/Tania Malhotra\/AppData\/Local\/Temp\/Lens Studio-oFmFfy\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                        "additional": {
+                            "originalAttribs": {
+                                "vertexAttribs": [
+                                    {
+                                        "semantic": "position",
+                                        "format": "9",
+                                        "index": "0"
+                                    },
+                                    {
+                                        "semantic": "normal",
+                                        "format": "9",
+                                        "index": "1"
+                                    },
+                                    {
+                                        "semantic": "tangent",
+                                        "format": "9",
+                                        "index": "2"
+                                    },
+                                    {
+                                        "semantic": "bitangent",
+                                        "format": "9",
+                                        "index": "3"
+                                    },
+                                    {
+                                        "semantic": "texture0",
+                                        "format": "9",
+                                        "index": "4"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "name": "mat",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "986",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Space",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "26",
+                                "dependency": "0",
+                                "uid": "1596166170362103:151758",
+                                "fileId": "36",
+                                "originalId": "37",
+                                "publicId": "985",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Sun",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "29",
+                                "dependency": "0",
+                                "uid": "1596168068368633:347339",
+                                "fileId": "42",
+                                "originalId": "43",
+                                "publicId": "990",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "earth",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "46",
+                                "dependency": "0",
+                                "uid": "1596171021193341:725247",
+                                "fileId": "66",
+                                "originalId": "67",
+                                "publicId": "1015",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "moon",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "47",
+                                "dependency": "0",
+                                "uid": "1596174207151123:1130532",
+                                "fileId": "68",
+                                "originalId": "69",
+                                "publicId": "1016",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "jupiter",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "51",
+                                "dependency": "0",
+                                "uid": "1596179055851310:1598671",
+                                "fileId": "74",
+                                "originalId": "75",
+                                "publicId": "1021",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "uranus",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "53",
+                                "dependency": "0",
+                                "uid": "1596183588000906:2166595",
+                                "fileId": "78",
+                                "originalId": "79",
+                                "publicId": "1023",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "neptune",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "54",
+                                "dependency": "0",
+                                "uid": "1596183591444612:2167693",
+                                "fileId": "80",
+                                "originalId": "81",
+                                "publicId": "1024",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "mars",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "55",
+                                "dependency": "0",
+                                "uid": "1596183628420266:2174337",
+                                "fileId": "82",
+                                "originalId": "83",
+                                "publicId": "1025",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "989",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "2k_venus_surface",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "24",
+                                "dependency": "0",
+                                "uid": "1596165061141365:17726",
+                                "fileId": "32",
+                                "originalId": "33",
+                                "publicId": "980",
+                                "source": "C:\/Users\/Tania Malhotra\/Desktop\/planets\/2k_venus_surface.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "2k_uranus",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "23",
+                                "dependency": "0",
+                                "uid": "1596165060918298:17701",
+                                "fileId": "30",
+                                "originalId": "31",
+                                "publicId": "979",
+                                "source": "C:\/Users\/Tania Malhotra\/Desktop\/planets\/2k_uranus.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "2k_sun",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "22",
+                                "dependency": "0",
+                                "uid": "1596165060637025:17569",
+                                "fileId": "28",
+                                "originalId": "29",
+                                "publicId": "978",
+                                "source": "C:\/Users\/Tania Malhotra\/Desktop\/planets\/2k_sun.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "2k_stars",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "20",
+                                "dependency": "0",
+                                "uid": "1596165060039219:17406",
+                                "fileId": "24",
+                                "originalId": "25",
+                                "publicId": "976",
+                                "source": "C:\/Users\/Tania Malhotra\/Desktop\/planets\/2k_stars.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "2k_saturn_ring_alpha",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "19",
+                                "dependency": "0",
+                                "uid": "1596164986822471:8405",
+                                "fileId": "22",
+                                "originalId": "23",
+                                "publicId": "975",
+                                "source": "C:\/Users\/Tania Malhotra\/Desktop\/planets\/2k_saturn_ring_alpha.png",
+                                "additional": ""
+                            },
+                            {
+                                "name": "2k_saturn",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "18",
+                                "dependency": "0",
+                                "uid": "1596164986660881:8380",
+                                "fileId": "20",
+                                "originalId": "21",
+                                "publicId": "974",
+                                "source": "C:\/Users\/Tania Malhotra\/Desktop\/planets\/2k_saturn.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "2k_neptune",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "17",
+                                "dependency": "0",
+                                "uid": "1596164986373721:8265",
+                                "fileId": "18",
+                                "originalId": "19",
+                                "publicId": "973",
+                                "source": "C:\/Users\/Tania Malhotra\/Desktop\/planets\/2k_neptune.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "2k_moon",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "16",
+                                "dependency": "0",
+                                "uid": "1596164986102722:8232",
+                                "fileId": "16",
+                                "originalId": "17",
+                                "publicId": "972",
+                                "source": "C:\/Users\/Tania Malhotra\/Desktop\/planets\/2k_moon.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "2k_mercury",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "15",
+                                "dependency": "0",
+                                "uid": "1596164985795260:8133",
+                                "fileId": "14",
+                                "originalId": "15",
+                                "publicId": "971",
+                                "source": "C:\/Users\/Tania Malhotra\/Desktop\/planets\/2k_mercury.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "2k_mars",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "14",
+                                "dependency": "0",
+                                "uid": "1596164985403633:8027",
+                                "fileId": "12",
+                                "originalId": "13",
+                                "publicId": "970",
+                                "source": "C:\/Users\/Tania Malhotra\/Desktop\/planets\/2k_mars.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "2k_jupiter",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "13",
+                                "dependency": "0",
+                                "uid": "1596164985029180:7937",
+                                "fileId": "10",
+                                "originalId": "11",
+                                "publicId": "969",
+                                "source": "C:\/Users\/Tania Malhotra\/Desktop\/planets\/2k_jupiter.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "2k_earth_daymap",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "12",
+                                "dependency": "0",
+                                "uid": "1596164984754421:7900",
+                                "fileId": "8",
+                                "originalId": "9",
+                                "publicId": "968",
+                                "source": "C:\/Users\/Tania Malhotra\/Desktop\/planets\/2k_earth_daymap.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "2k_stars_milky_way",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "21",
+                                "dependency": "0",
+                                "uid": "1596165060302849:17443",
+                                "fileId": "26",
+                                "originalId": "27",
+                                "publicId": "977",
+                                "source": "C:\/Users\/Tania Malhotra\/Desktop\/planets\/2k_stars_milky_way.jpg",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tween",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "991",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Tween",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "30",
+                                "dependency": "0",
+                                "uid": "1596168465266762:396843",
+                                "fileId": "44",
+                                "originalId": "18446744073709551615",
+                                "publicId": "992",
+                                "source": "C:\/Users\/Tania Malhotra\/AppData\/Local\/Temp\/Lens Studio-oFmFfy\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "TweenTypes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "993",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "TweenTransform",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "31",
+                                        "dependency": "0",
+                                        "uid": "1596168465375312:396855",
+                                        "fileId": "45",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "994",
+                                        "source": "C:\/Users\/Tania Malhotra\/AppData\/Local\/Temp\/Lens Studio-oFmFfy\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "TweenColor",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "34",
+                                        "dependency": "0",
+                                        "uid": "1596168465761969:396911",
+                                        "fileId": "49",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "999",
+                                        "source": "C:\/Users\/Tania Malhotra\/AppData\/Local\/Temp\/Lens Studio-oFmFfy\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "TweenAlpha",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "35",
+                                        "dependency": "0",
+                                        "uid": "1596168465891922:396925",
+                                        "fileId": "50",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1000",
+                                        "source": "C:\/Users\/Tania Malhotra\/AppData\/Local\/Temp\/Lens Studio-oFmFfy\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Legacy",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1001",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "TweenBillboard [DEPRECATED]",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "36",
+                                                "dependency": "0",
+                                                "uid": "1596168466009106:396939",
+                                                "fileId": "51",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "1002",
+                                                "source": "C:\/Users\/Tania Malhotra\/AppData\/Local\/Temp\/Lens Studio-oFmFfy\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "TweenValue",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "37",
+                                        "dependency": "0",
+                                        "uid": "1596168466127015:396959",
+                                        "fileId": "52",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1003",
+                                        "source": "C:\/Users\/Tania Malhotra\/AppData\/Local\/Temp\/Lens Studio-oFmFfy\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "TweenChain",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "38",
+                                        "dependency": "0",
+                                        "uid": "1596168466261113:396975",
+                                        "fileId": "53",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1004",
+                                        "source": "C:\/Users\/Tania Malhotra\/AppData\/Local\/Temp\/Lens Studio-oFmFfy\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "TweenScreenTransform",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "40",
+                                        "dependency": "0",
+                                        "uid": "1596168466422315:397019",
+                                        "fileId": "55",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1006",
+                                        "source": "C:\/Users\/Tania Malhotra\/AppData\/Local\/Temp\/Lens Studio-oFmFfy\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "TweenManager",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "32",
+                                "dependency": "0",
+                                "uid": "1596168465478632:396875",
+                                "fileId": "46",
+                                "originalId": "18446744073709551615",
+                                "publicId": "995",
+                                "source": "C:\/Users\/Tania Malhotra\/AppData\/Local\/Temp\/Lens Studio-oFmFfy\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "rotate",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "48",
+                        "dependency": "0",
+                        "uid": "1596178469049102:1519916",
+                        "fileId": "70",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1018",
+                        "source": "C:\/Users\/Tania Malhotra\/AppData\/Local\/Temp\/Lens Studio-oFmFfy\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Saturn_diff",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "58",
+                        "dependency": "0",
+                        "uid": "1596190304781155:2841656",
+                        "fileId": "88",
+                        "originalId": "89",
+                        "publicId": "1026",
+                        "source": "C:\/Users\/Tania Malhotra\/AppData\/Local\/Temp\/Lens Studio-oFmFfy\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "ParticleResources",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1030",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1031",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "emitter_1000",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "59",
+                                        "dependency": "0",
+                                        "uid": "1596192494777280:3132495",
+                                        "fileId": "90",
+                                        "originalId": "91",
+                                        "publicId": "1032",
+                                        "source": "C:\/Users\/Tania Malhotra\/AppData\/Local\/Temp\/Lens Studio-SsZwoe\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "originalAttribs": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "index": "0"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "index": "1"
+                                                    },
+                                                    {
+                                                        "semantic": "color",
+                                                        "format": "3",
+                                                        "index": "2"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "index": "3"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1033",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "cr_linear_blend",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "60",
+                                        "dependency": "0",
+                                        "uid": "1596192494946411:3132507",
+                                        "fileId": "92",
+                                        "originalId": "93",
+                                        "publicId": "1034",
+                                        "source": "C:\/Users\/Tania Malhotra\/AppData\/Local\/Temp\/Lens Studio-SsZwoe\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "fx_bokeh",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "61",
+                                        "dependency": "0",
+                                        "uid": "1596192495083535:3132527",
+                                        "fileId": "94",
+                                        "originalId": "95",
+                                        "publicId": "1035",
+                                        "source": "C:\/Users\/Tania Malhotra\/AppData\/Local\/Temp\/Lens Studio-SsZwoe\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1036",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "BokehController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "62",
+                                "dependency": "0",
+                                "uid": "1596192495220086:3132543",
+                                "fileId": "96",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1037",
+                                "source": "C:\/Users\/Tania Malhotra\/AppData\/Local\/Temp\/Lens Studio-SsZwoe\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "ParticleMaterials",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1038",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "World",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1039",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Bokeh",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1040",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Bokeh [EDIT_ME]",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "63",
+                                                "dependency": "0",
+                                                "uid": "1596192495303138:3132555",
+                                                "fileId": "97",
+                                                "originalId": "98",
+                                                "publicId": "1041",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1596168608674512:420966"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}
